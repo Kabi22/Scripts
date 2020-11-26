@@ -1,3 +1,4 @@
+#Takes input such as "1,2-6,7-12,15,23-27" and outputs number of problems
 count = 0
 while True:
     problems = (input("Enter Problem String: "))
